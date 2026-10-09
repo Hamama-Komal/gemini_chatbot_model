@@ -1,2 +1,3 @@
-# gemini_chatbot_model
-A simple chatbot
+# My Gemini Chatbot
+
+Simple AI lecture 1
